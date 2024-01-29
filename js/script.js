@@ -6,7 +6,7 @@ const RADIO_NAME = 'Game! Radio 1';
 var API_SERVICE = 'SPOTIFY';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR ETC.... DOES NOT SUPPORT HLS
-const URL_STREAMING = 'https://stream-51.zeno.fm/cfhkm5fs1uhvv?zs=HOu6hxV1SG-7iGi9WGVTqQ';
+const URL_STREAMING = 'https://stream.zeno.fm/bcynpkcznv8uv';
 
 //NOW PLAYING API.
 const API_URL = 'https://api.joeycast.com/songid/4eb1b192-cff3-4b95-a46c-13cbc5048730'
